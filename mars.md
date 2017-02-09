@@ -9,5 +9,5 @@
 1. Git
 2. Shell
 
-[Show this text but link to Swellnet](www.swellnet.com)
+[Show this text but link to Swellnet] (www.swellnet.com)
 
